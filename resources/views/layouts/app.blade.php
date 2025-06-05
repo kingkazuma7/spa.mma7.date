@@ -14,6 +14,10 @@
     <link href="https://fonts.bunny.net/css?family=Nunito" rel="stylesheet">
 
     <!-- Scripts -->
+<<<<<<< HEAD
+=======
+    @viteReactRefresh
+>>>>>>> 6b46c03 (remote add mixhost)
     @vite(['resources/sass/app.scss', 'resources/js/app.js'])
 </head>
 <body>
